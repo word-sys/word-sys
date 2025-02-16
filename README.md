@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm word-sys</h1>
 <h3 align="center">Software Developer</h3>
-- 🌱 I’m currently learning **Rust and Go**
-
-- 📫 How to reach me **word-sys@hotmail.com**
-
-<div> <a href = "mailto:word-sys@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+-  I’m currently learning **Rust and Go**
+-  Making a projects will help people
+-  IOT Web Mobile Desktop Linux AOSP SQL Game Development
+-  How to reach me **baringuzeldemir@gmail.com** mail to me
+<div> <a href = "mailto:baringuzeldemir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
