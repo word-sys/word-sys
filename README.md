@@ -3,7 +3,7 @@
 
 -  I’m currently learning **Rust and Go**
 
--  Making a projects will help people
+-  Making projects
 
 -  IOT Web Mobile Desktop Linux AOSP SQL Game Development
 
