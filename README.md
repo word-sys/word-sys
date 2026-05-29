@@ -1,5 +1,5 @@
 <h1 align="center">word-sys</h1>
-<h3 align="center">Software Developer | Average Linux User :)</h3>
+<h3 align="center">Software Developer | Average Linux User </h3>
 
 -  Trying to learn Rust
 
