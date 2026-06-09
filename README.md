@@ -5,8 +5,6 @@
 
 -  Developer of word-sys's PDF Editor
 
--  Developing MaxMail for BlackBerry OS
-
 -  Working on project PULS right now
 
 -  Reach me on **baringuzeldemir@gmail.com**
