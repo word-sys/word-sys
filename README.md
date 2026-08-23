@@ -1,11 +1,10 @@
-<h1 align="center">word-sys</h1>
-<h3 align="center">Software Developer | Linux & BSD | treltexx </h3>
+# word-sys
+**Software Developer | Hardware Support & Testing | Linux & BSD | treltexx**
 
--  Trying to learn Rust, NodeJS and C
+* Trying to learn Go, NodeJS and C
 
--  Developer of word-sys's PDF Editor
+* Developer of word-sys's PDF Editor and PULS & Packages of PULS
 
--  Working on PULS right now
+* Working on PULS and PkgBox right now
 
--  Reach me on **baringuzeldemir@gmail.com**
-<div> <a href = "mailto:baringuzeldemir@gmail.com"></a>
+* Reach me on [baringuzeldemir@gmail.com](mailto:baringuzeldemir@gmail.com)
