@@ -8,3 +8,5 @@
 * Working on PULS and PkgBox right now
 
 * Reach me on [baringuzeldemir@gmail.com](mailto:baringuzeldemir@gmail.com)
+
+* Project demonstration videos on [https://www.youtube.com/@word-sys](https://www.youtube.com/@word-sys)
