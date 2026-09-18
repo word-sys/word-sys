@@ -1,5 +1,5 @@
 # word-sys
-**Software Developer | Hardware Support & Testing | Linux & BSD | treltexx**
+**Software Developer | Hardware Specialist | Linux & BSD | treltexx**
 
 * Trying to learn Go, NodeJS and C
 
