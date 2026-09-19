@@ -5,7 +5,7 @@
 
 * Developer of word-sys's PDF Editor
 
-* Working on PULS, GoBrush and anyconvert projects
+* Working on PULS, GoBrush & anyconvert projects
 
 * Reach me on [baringuzeldemir@gmail.com](mailto:baringuzeldemir@gmail.com)
 
